@@ -2,7 +2,7 @@ def get_color_prims():
     """Getting the prims of the color node.
     
     :return: Primitives
-    :rtype: <hou.Geometry>
+    :rtype: tuple
     """
 
     color_node = hou.node(f"{hou.pwd().path()}/prim_colors")
