@@ -23,5 +23,5 @@ How to use:
     - Show Trajectory: Show the trajectory path and the diferents impacts 
     of the obstacles.
 
-    - Simulation: If this toggle is active, show a how the projectile destroy 
+    - Simulation: If this toggle is active, show how the projectile destroy 
     the obstacles in the scene.
