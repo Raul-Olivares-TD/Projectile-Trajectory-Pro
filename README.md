@@ -4,6 +4,7 @@ HDA for SideFx Houdini that create a custom trajectory path.
 How to install and create: 
 
 1- Put the HDA on the otls file in the current version of Houdini, in windows the path is something like "C:\Users\User\Documents\houdinixx.x\otls", if don't have any otls file create yourself.
+
 2- The HDA works in a sop context, create a geometry node and inside create the HDA.
 
 How to use:
